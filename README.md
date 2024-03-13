@@ -38,7 +38,7 @@
     <li>「スタイルに追加」をタップして、左上の「保存」をタップする。</li>
     <li>右上の点３つ→「アドオン」→「uBlock Origin」→「ダッシュボードを開く」をタップ</li>
     <li>上の「マイフィルター」をタップする。</li>
-    <li><img src=bin/ublock_demo_1.jpg alt=インポート>このアイコンをタップする。</li>
+    <li><img src=bin/ublock_demo_1.jpg alt=インポート width=50px>このアイコンをタップする。</li>
     <li>「ublock_arcytui_v1.x」という名前のtxtファイルを選択する。</li>
     <li>マイルールが追加されたのを確認したら左上のチェックボタンをタップする。</li>
     <li><a href=https://greasyfork.org/en/scripts/436115-return-youtube-dislike/code>こちらのリンク</a>を開く。</li>
