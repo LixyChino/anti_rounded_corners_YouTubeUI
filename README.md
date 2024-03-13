@@ -41,7 +41,7 @@
     <li><img src=bin/ublock_demo_1.jpg alt=インポート width=50px>このアイコンをタップする。</li>
     <li>「ublock_arcytui_v1.x」という名前のtxtファイルを選択する。</li>
     <li>マイルールが追加されたのを確認したら左上のチェックボタンをタップする。</li>
-    <li><a href=https://greasyfork.org/en/scripts/436115-return-youtube-dislike/code>こちらのリンク</a>を開く。</li>
+    <li><a href=https://greasyfork.org/en/scripts/436115-return-youtube-dislike/code>こちらのリンク</a>からReturn YouTube Dislike(Tampermonkey版)のインストール画面へ行く。</li>
     <li>「Install this sctipt」をタップする。</li>
     <li>「インストール」をタップする。</li>
   </ol>
