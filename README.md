@@ -5,6 +5,7 @@
 <ul>
   <li>ブラウザ:Firefox Beta 124.0b5</li>
   <li>拡張機能(カスタムCSSを読みこむのに必要)：Stylus</li>
+  <p>(v1.4までは開発にStylebotを使用)</p>
 </ul>
 <p>その他使用している(というか必要な)拡張機能</p>
 <ul>
@@ -31,7 +32,8 @@
   <p>0.あらかじめFirefox BetaにStylusとuBlock OriginとTampermonkeyをインストールします。</p>
   <ol>
     <li>「Releases」から最新のファイルをダウンロードする。</li>
-    <li>ファイルエディターからでもなんでもいいのでダウンロードしたtxtファイルを開く。</li>
+    <li>ファイルエディターからでもなんでもいいのでダウンロードしたzipファイルを解凍する。</li>
+    <li>解凍したら「uBlock」フォルダと「anti_rounded_corners_YouTubeUI_v1.x」というtxtファイルができます。</li>
     <li>「anti_rounded_corners_YouTubeUI_v1.x」というtxtファイルの中にcssが入っているので、内容をすべて選択し、クリップボードにコピーする。</li>
     <li>Firefox Betaを開いて、右上の点３つ→「アドオン」→「Stylus」→「管理」→「スタイルを新規作成」の順にタップする。(この段階でデスクトップサイトを有効化しておいてください。そうしないと「スタイルに追加」が上手く押せないんですよね)</li>
     <li>「インポート」をタップして、「Mozilla形式のコードを貼り付ける」というものが出たら、そこに先ほどコピーしたcssをペーストする。</li>
