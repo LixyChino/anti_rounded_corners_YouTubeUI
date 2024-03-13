@@ -1,0 +1,14 @@
+! 2024-02-28 https://m.youtube.com
+m.youtube.com##.chip-bar-contents
+m.youtube.com##button-view-model.yt-spec-button-view-model.slim_video_action_bar_renderer_button > .yt-spec-button-shape-next--enable-backdrop-filter-experiment.yt-spec-button-shape-next--icon-leading.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--tonal.yt-spec-button-shape-next > yt-touch-feedback-shape > .yt-spec-touch-feedback-shape--touch-response.yt-spec-touch-feedback-shape > .yt-spec-touch-feedback-shape__fill
+m.youtube.com##button-view-model.yt-spec-button-view-model.slim_video_action_bar_renderer_button:nth-of-type(3)
+
+! 2024-03-07 https://m.youtube.com
+m.youtube.com##cinematic-setting-component
+
+! 2024-03-08 https://m.youtube.com
+m.youtube.com###collapsed-string-expand-button > .yt-core-attributed-string
+
+! 2024-03-09 https://m.youtube.com
+m.youtube.com##.immsersive-header-background-wrapper
+
