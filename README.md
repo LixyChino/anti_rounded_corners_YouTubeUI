@@ -20,17 +20,17 @@
     <img src=bin/ytui_back_demo1.png alt=適用前後比較 width=500px>
   <h3>高評価ボタンや低評価ボタンを以前のスタイルに近い状態に！！</h3>
     <p>高評価ボタンや低評価ボタンが以前の大きくて押しやすいボタンになります！！</p>
-    < <small><small>p>※v1.5から実装しています。</p></small></small>
+    <small><small><p>※v1.5から実装しています。</p></small></small>
     <img src=bin/ytui_back_demo4.png alt=ボタン width=500px>
   <h3>チャンネル登録者数の表記が現行の簡略化されすぎた表記から以前のある程度の簡略化まで変更</h3>
     <p>現行の表記は数字(チャンネルによっては万などの表記もある)のみですが、このCSSを適用すると以前の「チャンネル登録者数○○人」という表記が復活します！！</p>
     <img src=bin/ytui_back_demo2.png alt=登録者数 width=500px>
     <small><small><p>※登録者数が１万人以上のチャンネルにおいて、登録者数自体が１人単位で見えるようになるものではありません。</p></small></small>
-    <small><small></small></small><p>※v1.3から実装しています。</p></small></small>
+    <small><small><p>※v1.3から実装しています。</p></small></small>
   <h3>概要欄に素早くアクセス！！</h3>
     <p>タイトルをタップした後さらにもう１回タップしなきゃいけないのは意味不明！！ということでタイトルをタップしたらその時点で概要欄がすべて見えるように改良しました！！</p>
     <img src=bin/ytui_back_demo3.png alt=概要欄 width=500px>
-    <small><small></small></small><p>※v1.5から実装しています。</p></small></small>
+    <small><small><p>※v1.5から実装しています。</p></small></small>
 <h2>導入方法</h2>
   <p>0.あらかじめFirefox BetaにStylusとuBlock OriginとTampermonkeyをインストールします。</p>
   <ol>
