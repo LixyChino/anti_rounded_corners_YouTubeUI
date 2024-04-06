@@ -6,6 +6,7 @@
   <li>ブラウザ:Firefox Beta 124.0b5</li>
   <li>拡張機能(カスタムCSSを読みこむのに必要)：Stylus</li>
   <p>(v1.4までは開発にStylebotを使用)</p>
+  <li>スマホ：Galaxy S22</li>
 </ul>
 <p>その他使用している(というか必要な)拡張機能</p>
 <ul>
