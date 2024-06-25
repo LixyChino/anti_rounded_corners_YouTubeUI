@@ -73,4 +73,5 @@
     <li>仕様上、2本以上の広告が流れる際の「1/2」などの表示には対応していません。ご了承ください。</li>
     <li>このカスタムCSSは日本語版向けに制作されています。他の言語には対応していません。ごめんなさい。This CSS file is only available in Japanese.</li>
     <li>低評価の表示にはAnarios & JRWR様が制作した「Return YouTube Dislike」を使用しています。</li>
+    <li>もしかしたら環境によっては動かないかもしれません。ゆるして</li>
   </ul>
