@@ -54,7 +54,7 @@
         <li>ファイルエディターからでもなんでもいいのでダウンロードしたzipファイルを解凍する。</li>
         <li>解凍したら「uBlock」フォルダと「anti_rounded_corners_YouTubeUI_v1.x」というtxtファイルができます。</li>
         <li>「anti_rounded_corners_YouTubeUI_v1.x」というtxtファイルの中にcssが入っているので、内容をすべて選択し、クリップボードにコピーする。</li>
-        <li>Firefox Betaを開いて、「Stylus」→ 右上の点３つ→「アドオン」→「Stylus」→「管理」→Anti_Rounded_Corners_YouTubeUIを記載したスタイルの名前をタップします(この段階でデスクトップサイトを有効化しておいてください。)。/li>
+        <li>Firefox Betaを開いて、「Stylus」→ 右上の点３つ→「アドオン」→「Stylus」→「管理」→Anti_Rounded_Corners_YouTubeUIを記載したスタイルの名前をタップします(この段階でデスクトップサイトを有効化しておいてください。)。</li>
           <img src=bin/css_apply_1.jpg width=500px>
         <li>「インポート」をタップします。</li>
           <img src=bin/css_apply_2.jpg width=500px>
