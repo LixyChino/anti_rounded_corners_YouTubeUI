@@ -49,8 +49,10 @@
     <li>「インストール」をタップする。</li>
   </ol>
     <p>以上で導入は終了です。お疲れさまでした。</p>
+<h2>Anti_Rounded_Corners_YouTubeUIの更新について</h2>
+		<p>現時点ではAnti_Rounded_Corners_YouTubeUIに自動アップデート機能はありません。</p><br>
+		<p>恐れ入りますが、最新バージョンへの更新はご利用者様が以下の手順で行ってください。</p>
   <h2>更新方法</h2>
-      <p>本CSSには自動アップデート機能はございませんので手動でのアップデートをお願いします。</p>
       <ol>
         <li>「Releases」から最新のファイルをダウンロードする。</li>
         <li>ファイルエディターからでもなんでもいいのでダウンロードしたzipファイルを解凍する。</li>
@@ -79,6 +81,24 @@
     <li>低評価の表示にはAnarios & JRWR様が制作した「Return YouTube Dislike」を使用しています。</li>
     <li>もしかしたら環境によっては動かないかもしれません。ゆるして</li>
   </ul><br>
+	<h2>クレジット表記</h2>
+    <p>このCSSの一部にはクリエイティブコモンズやその他クレジット表記が必要なコンテンツが含まれています。<br>それらの表記を追加しています。</p>
+	  <a href="https://iconscout.com/icons/history" class="text-underline font-size-sm" target="_blank">History</a> by <a href="https://iconscout.com/contributors/icon-stockes" class="text-underline font-size-sm" target="_blank">Stockes Design</a>
+	  <p>履歴アイコン</p>
+	  <a href="https://iconscout.com/icons/library-add" class="text-underline font-size-sm" target="_blank">library add</a> by <a href="https://iconscout.com/contributors/graphic-room" class="text-underline font-size-sm" target="_blank">Venus</a>
+	  <p>ライブラリのアイコン</p>
+	  <svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" fill="none" viewBox="0 0 128 128" id="library-add"><path stroke="#000" stroke-width="8" d="M72 79L72 35M50 57L94 57"></path><rect width="79" height="79" x="32" y="17" stroke="#000" stroke-width="8"></rect><path stroke="#000" stroke-width="8" d="M17 32V111H96"></path></svg>
+	  <a href="https://iconscout.com/icons/add-playlist" class="text-underline font-size-sm" target="_blank">add playlist</a> by <a href="https://iconscout.com/contributors/google-inc" class="text-underline font-size-sm">Google Inc.</a> on <a href="https://iconscout.com" class="text-underline font-size-sm">IconScout</a>
+	  <p>再生リストのアイコン</p>
+	  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" id="add-playlist"><path d="M13 10H3c-.55 0-1 .45-1 1s.45 1 1 1h10c.55 0 1-.45 1-1s-.45-1-1-1zm0-4H3c-.55 0-1 .45-1 1s.45 1 1 1h10c.55 0 1-.45 1-1s-.45-1-1-1zm5 8v-3c0-.55-.45-1-1-1s-1 .45-1 1v3h-3c-.55 0-1 .45-1 1s.45 1 1 1h3v3c0 .55.45 1 1 1s1-.45 1-1v-3h3c.55 0 1-.45 1-1s-.45-1-1-1h-3zM3 16h6c.55 0 1-.45 1-1s-.45-1-1-1H3c-.55 0-1 .45-1 1s.45 1 1 1z"></path></svg>
+	  <br>
+	  <a href="https://iconscout.com/icons/check" class="text-underline font-size-sm" target="_blank">check</a> by <a href="https://iconscout.com/contributors/google-inc" class="text-underline font-size-sm">Google Inc.</a> on <a href="https://iconscout.com" class="text-underline font-size-sm">IconScout</a>
+	  <p>チェックマーク</p>
+	   <p>以下は過去に使用していたアイコン(バージョンアップに伴い使用しなくなったアイコン)</p>
+		  <a href="https://commons.wikimedia.org/wiki/File:Ic_library_add_48px.svg">Google Inc.</a>, <a href="http://www.apache.org/licenses/LICENSE-2.0">Apache License 2.0, via Wikimedia Commons</a>
+		  <p>再生リストのアイコン</p>
+		  <a href="https://commons.wikimedia.org/wiki/File:History_(CoreUI_Icons_v1.0.0).svg">CoreUI</a>, <a href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0, via Wikimedia Commons</a>
+		  <p>履歴アイコン</p><br>
 <h2>バージョン1.19以前の導入方法</h2>
   <p>バージョン1.20以降では要素のブロックに「display:none;」を使用していますが、バージョン1.19以前の場合uBlock Originを使用して要素をブロックしていました。<br>その為最新バージョンのインストール工程に加えてuBlock Originのセットアップ工程も必要です。</p>
   <p>0.あらかじめFirefox BetaにStylusとuBlock OriginとTampermonkeyをインストールします。</p>
