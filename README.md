@@ -35,7 +35,7 @@
     <img src=bin/ytui_back_demo3.png alt="概要欄" width=500px>
     <small><small><p>※v1.5から実装しています。</p></small></small>
 <h2>導入方法</h2>
-  <p>0.あらかじめFirefox BetaにStylusとTampermonkeyをインストールします。</p>
+  <p>0.あらかじめFirefox BetaにStylusとTampermonkeyをインストールします。<br>また、YouTubeアプリの「対応するリンクを開く」設定を無効化してください。</p>
   <ol>
     <li>「Releases」から最新のファイルをダウンロードする。</li>
     <li>ファイルエディターからでもなんでもいいのでダウンロードしたzipファイルを解凍する。</li>
