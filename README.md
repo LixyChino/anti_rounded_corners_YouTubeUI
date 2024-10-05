@@ -99,6 +99,8 @@
 		  <p>再生リストのアイコン</p>
 		  <a href="https://commons.wikimedia.org/wiki/File:History_(CoreUI_Icons_v1.0.0).svg">CoreUI</a>, <a href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0, via Wikimedia Commons</a>
 		  <p>履歴アイコン</p><br>
+    		<a href="https://iconscout.com/icons/user" class="text-underline font-size-sm" target="_blank">User</a> by <a href="https://iconscout.com/jp/contributors/dalpattapaniya/:asset" class="text-underline font-size-sm" target="_blank">Dalpat Prajapati</a>
+      <p>ユーザーアイコン</p>
 <h2>バージョン1.19以前の導入方法</h2>
   <p>バージョン1.20以降では要素のブロックに「display:none;」を使用していますが、バージョン1.19以前の場合uBlock Originを使用して要素をブロックしていました。<br>その為最新バージョンのインストール工程に加えてuBlock Originのセットアップ工程も必要です。</p>
   <p>0.あらかじめFirefox BetaにStylusとuBlock OriginとTampermonkeyをインストールします。</p>
