@@ -101,6 +101,8 @@
 		  <p>履歴アイコン</p><br>
     		<a href="https://iconscout.com/icons/user" class="text-underline font-size-sm" target="_blank">User</a> by <a href="https://iconscout.com/jp/contributors/dalpattapaniya/:asset" class="text-underline font-size-sm" target="_blank">Dalpat Prajapati</a>
       <p>ユーザーアイコン</p>
+      <a href="https://iconscout.com/icons/down" class="text-underline font-size-sm" target="_blank">下</a> by <a href="https://iconscout.com/jp/contributors/lucia-gonzalez/:asset" class="text-underline font-size-sm" target="_blank">Lucía González</a>
+      <p>詳細を表示するときの下アイコン</p>
 <h2>バージョン1.19以前の導入方法</h2>
   <p>バージョン1.20以降では要素のブロックに「display:none;」を使用していますが、バージョン1.19以前の場合uBlock Originを使用して要素をブロックしていました。<br>その為最新バージョンのインストール工程に加えてuBlock Originのセットアップ工程も必要です。</p>
   <p>0.あらかじめFirefox BetaにStylusとuBlock OriginとTampermonkeyをインストールします。</p>
