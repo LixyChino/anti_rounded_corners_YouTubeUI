@@ -105,6 +105,8 @@
       <p>詳細を表示するときの下アイコン</p>
       <a href="https://iconscout.com/icons/send" class="text-underline font-size-sm" target="_blank">送信</a> by <a href="https://iconscout.com/jp/contributors/google-inc/:assets" class="text-underline font-size-sm">Google Inc.</a> on <a href="https://iconscout.com" class="text-underline font-size-sm">IconScout</a>
       <p>送信アイコン</p>
+      <a href="https://iconscout.com/icons/download" class="text-underline font-size-sm" target="_blank">ダウンロード</a> by <a href="https://iconscout.com/jp/contributors/parul/:assets" class="text-underline font-size-sm" target="_blank">Parul Gupta</a>
+      <p>ダウンロードアイコン</p>
 <h2>バージョン1.19以前の導入方法</h2>
   <p>バージョン1.20以降では要素のブロックに「display:none;」を使用していますが、バージョン1.19以前の場合uBlock Originを使用して要素をブロックしていました。<br>その為最新バージョンのインストール工程に加えてuBlock Originのセットアップ工程も必要です。</p>
   <p>0.あらかじめFirefox BetaにStylusとuBlock OriginとTampermonkeyをインストールします。</p>
