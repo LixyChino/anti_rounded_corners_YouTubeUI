@@ -3,7 +3,7 @@
 <p>このCSSファイルは、<a href=https://m.youtube.com>モバイルブラウザ版YouTube(m.youtube.com)</a>を対象に作成されています。<a href=https://www.youtube.com>PCブラウザ版YouTube(www.youtube.com)</a>では使えないのでご注意ください。</p>
 <p>開発/動作検証環境(故に動作確認済み環境)は以下の通りです。</p>
 <ul>
-  <li>ブラウザ:Firefox Beta 124.0b5</li>
+  <li>ブラウザ:Firefox Beta 133.0b9(バージョン1.28以前はFirefox Beta 124.0b5)</li>
   <li>拡張機能(カスタムCSSを読みこむのに必要)：Stylus</li>
   <li>スマホ：Galaxy S22</li>
 </ul>
