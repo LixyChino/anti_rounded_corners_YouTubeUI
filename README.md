@@ -54,7 +54,16 @@
 		<s>恐れ入りますが、最新バージョンへの更新は以下の手順に沿ってご利用者様が手動で行ってください。</s></p>
   		<p>バージョン1.32から試験的にUserStyles.worldを用いた自動アップデートを導入しました。</p>
     		<p><a href="https://userstyles.world/style/21139/anti-rounded-corners-youtubeui">こちら</a>からAnti_Rounded_Corners_YouTubeUIをインストールすると、自動アップデート機能が利用できます。</p>
-      		<img src="bin/ytui_back_demo5.png" alt="更新" width=500px>
+      		<img src="bin/ytui_update1.png" alt="更新" width=500px>
+		<p>1.リンク先に飛ぶとこのようなページが表示されます。</p>
+  		<img src="bin/ytui_update2.png" alt="更新" width=500px>
+    		<p>2.右下の「Install」をクリックします。</p>
+      		<img src="bin/ytui_update3.png" alt="更新" width=500px>
+		<p>3.クリックするとこのようにStylusが起動します。</p>
+  		<img src="bin/ytui_update4.png" alt="更新" width=500px>
+    		<p>4.左上の「インストール」をクリックします。</p>
+      		<img src="bin/ytui_update5.png" alt="更新" width=500px>
+		<p>「スタイルがインストー­ルされています」と表示されれば完了です。お疲れさまでした。</p>
   <h2>更新方法</h2>
       <ol>
         <li>「Releases」から最新のファイルをダウンロードする。</li>
