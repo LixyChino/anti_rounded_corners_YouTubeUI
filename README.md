@@ -60,7 +60,6 @@
 		<img src="bin/arcytui_install_2.jpg" alt="Webアプリ" height=500px>
 		<li>(Galaxyの場合)「ホーム画面に追加しますか？」というポップアップが表示されたらホーム画面の好きな場所にアイコンを追加する。</li>
 		<img src="bin/arcytui_install_2.jpg" alt="Webアプリ" height=500px>
-	</ol>
  	<p>これでWebアプリ版のインストールは完了です。お疲れさまでした。</p>
 	<img src="bin/arcytui_install_4.jpg" alt="Webアプリ" height=500px>
  	<p>起動してみるとこのような画面が表示されます。</p>
@@ -72,6 +71,7 @@
 			<li>手順4で、以下のような画面が表示されたときは失敗です。もう一度手順1からやり直してください。</li>
 			<img src="bin/arcytui_install_6.jpg" alt="Webアプリ" height=500px>
 		</ul>
+	</ol>
 <h2>Anti_Rounded_Corners_YouTubeUIの更新について</h2>
 		<p><s>現時点ではAnti_Rounded_Corners_YouTubeUIに自動アップデート機能はありません。</s><br>
 		<s>恐れ入りますが、最新バージョンへの更新は以下の手順に沿ってご利用者様が手動で行ってください。</s></p>
