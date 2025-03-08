@@ -54,23 +54,23 @@
  	<p>Webアプリ版は以下の手順を踏むことでインストールすることができます。</p>
  	<ol>
 		<li>まず、以下のリンク先に飛ぶ。<br><a href="https://lixychino.github.io/arcytui/">https://lixychino.github.io/arcytui/</a></li>
-		<img src="bin/arcytui_install_1.jpg" alt="Webアプリ" Width=500px>
+		<img src="bin/arcytui_install_1.jpg" alt="Webアプリ" height=500px>
 		<li>YouTubeアプリの起動画面風の画面が表示されるので、右下の点3つのアイコンをタップする。</li>
-		<img src="bin/arcytui_install_2.jpg" alt="Webアプリ" Width=500px>
+		<img src="bin/arcytui_install_2.jpg" alt="Webアプリ" height=500px>
 		<li>少し下にスライドして、「ホーム画面に追加」(または「ホーム画面にアプリを追加」)をタップする。</li>
-		<img src="bin/arcytui_install_2.jpg" alt="Webアプリ" Width=500px>
+		<img src="bin/arcytui_install_2.jpg" alt="Webアプリ" height=500px>
 		<li>(Galaxyの場合)「ホーム画面に追加しますか？」というポップアップが表示されたらホーム画面の好きな場所にアイコンを追加する。</li>
 	</ol>
  	<p>これでWebアプリ版のインストールは完了です。お疲れさまでした。</p>
-	<img src="bin/arcytui_install_4.jpg" alt="Webアプリ" Width=500px>
+	<img src="bin/arcytui_install_4.jpg" alt="Webアプリ" height=500px>
  	<p>起動してみるとこのような画面が表示されます。</p>
-  	<img src="bin/arcytui_install_5.jpg" alt="Webアプリ" Width=500px>
+  	<img src="bin/arcytui_install_5.jpg" alt="Webアプリ" height=500px>
   	<p>3秒経過後、自動的にYouTubeへリダイレクトされます。</p>
   	<h3>注意点</h3>
    		<ul>
    			<li>手順2～3は<span sytle="color:red;">3秒以内</span>に行ってください。<br>(正確にはYouTubeにリダイレクトされる前)</li>
 			<li>手順4で、以下のような画面が表示されたときは失敗です。もう一度手順1からやり直してください。</li>
-			<img src="bin/arcytui_install_6.jpg" alt="Webアプリ" Width=500px>
+			<img src="bin/arcytui_install_6.jpg" alt="Webアプリ" height=500px>
 		</ul>
 <h2>Anti_Rounded_Corners_YouTubeUIの更新について</h2>
 		<p><s>現時点ではAnti_Rounded_Corners_YouTubeUIに自動アップデート機能はありません。</s><br>
