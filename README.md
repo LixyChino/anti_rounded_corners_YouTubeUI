@@ -49,22 +49,47 @@
     <li>「インストール」をタップする。</li>
   </ol>
     <p>以上で導入は終了です。お疲れさまでした。</p>
+<h2>あると便利なWebアプリ版</h2>
+	<p>Anti_Rounded_Corners_YouTubeUIにはWebアプリ版が用意されています。<br>Webアプリ版を使用すると、より一層アプリ版を使用しているような使い心地になります。</p>
+ 	<p>Webアプリ版は以下の手順を踏むことでインストールすることができます。</p>
+ 	<ol>
+		<li>まず、以下のリンク先に飛ぶ。<br><a href="https://lixychino.github.io/arcytui/">https://lixychino.github.io/arcytui/</a></li>
+		<img src="bin/arcytui_install_1.jpg" alt="Webアプリ" Width=500px>
+		<li>YouTubeアプリの起動画面風の画面が表示されるので、右下の点3つのアイコンをタップする。</li>
+		<img src="bin/arcytui_install_2.jpg" alt="Webアプリ" Width=500px>
+		<li>少し下にスライドして、「ホーム画面に追加」(または「ホーム画面にアプリを追加」)をタップする。</li>
+		<img src="bin/arcytui_install_2.jpg" alt="Webアプリ" Width=500px>
+		<li>(Galaxyの場合)「ホーム画面に追加しますか？」というポップアップが表示されたらホーム画面の好きな場所にアイコンを追加する。</li>
+	</ol>
+ 	<p>これでWebアプリ版のインストールは完了です。お疲れさまでした。</p>
+	<img src="bin/arcytui_install_4.jpg" alt="Webアプリ" Width=500px>
+ 	<p>起動してみるとこのような画面が表示されます。</p>
+  	<img src="bin/arcytui_install_5.jpg" alt="Webアプリ" Width=500px>
+  	<p>3秒経過後、自動的にYouTubeへリダイレクトされます。</p>
+  	<h3>注意点</h3>
+   		<ul>
+   			<li>手順2～3は<span sytle="color:red;">3秒以内</span>に行ってください。<br>(正確にはYouTubeにリダイレクトされる前)</li>
+			<li>手順4で、以下のような画面が表示されたときは失敗です。もう一度手順1からやり直してください。</li>
+			<img src="bin/arcytui_install_6.jpg" alt="Webアプリ" Width=500px>
+		</ul>
 <h2>Anti_Rounded_Corners_YouTubeUIの更新について</h2>
 		<p><s>現時点ではAnti_Rounded_Corners_YouTubeUIに自動アップデート機能はありません。</s><br>
 		<s>恐れ入りますが、最新バージョンへの更新は以下の手順に沿ってご利用者様が手動で行ってください。</s></p>
   		<p>バージョン1.32から試験的にUserStyles.worldを用いた自動アップデートを導入しました。</p>
     		<p><a href="https://userstyles.world/style/21139/anti-rounded-corners-youtubeui">こちら</a>からAnti_Rounded_Corners_YouTubeUIをインストールすると、自動アップデート機能が利用できます。</p>
-      		<img src="bin/ytui_update1.png" alt="更新" width=500px>
-		<p>1.リンク先に飛ぶとこのようなページが表示されます。</p>
-  		<img src="bin/ytui_update2.png" alt="更新" width=500px>
-    		<p>2.右下の「Install」をクリックします。</p>
-      		<img src="bin/ytui_update3.png" alt="更新" width=500px>
-		<p>3.クリックするとこのようにStylusが起動します。</p>
-  		<img src="bin/ytui_update4.png" alt="更新" width=500px>
-    		<p>4.左上の「インストール」をクリックします。</p>
-      		<img src="bin/ytui_update5.png" alt="更新" width=500px>
+      		<ol>
+      			<img src="bin/ytui_update1.png" alt="更新" width=500px>
+			<li>リンク先に飛ぶとこのようなページが表示されます。</li>
+  			<img src="bin/ytui_update2.png" alt="更新" width=500px>
+    			<li>右下の「Install」をクリックします。</li>
+      			<img src="bin/ytui_update3.png" alt="更新" width=500px>
+			<li>クリックするとこのようにStylusが起動します。</li>
+  			<img src="bin/ytui_update4.png" alt="更新" width=500px>
+    			<li>左上の「インストール」をクリックします。</li>
+      			<img src="bin/ytui_update5.png" alt="更新" width=500px>
+		</ol>
 		<p>「スタイルがインストー­ルされています」と表示されれば完了です。お疲れさまでした。</p>
-  <h2>更新方法</h2>
+  <h2>手動での更新方法</h2>
       <ol>
         <li>「Releases」から最新のファイルをダウンロードする。</li>
         <li>ファイルエディターからでもなんでもいいのでダウンロードしたzipファイルを解凍する。</li>
